@@ -1,0 +1,4 @@
+modelos/ensamble_stacking_arbol.pkl
+modelos/ensamble_stacking_lr.pkl
+modelos/ensamble_stacking_rf.pkl
+modelos/ensamble_voting.pkl
